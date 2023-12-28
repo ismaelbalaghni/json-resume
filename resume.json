@@ -1,88 +1,45 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "awards": [],
   "basics": {
-    "name": "Ismaël Balaghni",
-    "label": "Ingénieur développement logiciel • 23 ans • passionné d'informatique",
-    "image": "",
     "email": "ismael@balaghni.dev",
-    "phone": "+33 6 26 45 66 31",
-    "url": "https://www.balaghni.dev",
-    "summary": "Ingénieur logiciel de 23 ans. Thalésien depuis 3.5 ans, je me re-spécialise dans le développement logiciel. Passionné d'informatique et des nouvelles technologies depuis mon plus jeune âge, fan de football américain, de musique et de cinéma.",
+    "image": "",
+    "label": "Ingénieur développement logiciel • 23 ans • passionné d'informatique",
     "location": {
-      "postalCode": "78190",
       "city": "Trappes",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "postalCode": "78190"
     },
+    "name": "Ismaël Balaghni",
+    "phone": "+33 6 26 45 66 31",
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "ismaelbalaghni",
-        "url": "https://www.linkedin.com/in/ismaelbalaghni/"
+        "url": "https://www.linkedin.com/in/ismaelbalaghni/",
+        "username": "ismaelbalaghni"
       },
       {
         "network": "Twitter",
-        "username": "ismascarade",
-        "url": "https://twitter.com/ismascarade"
+        "url": "https://twitter.com/ismascarade",
+        "username": "ismascarade"
       },
       {
         "network": "Facebook",
-        "username": "ismascarade",
-        "url": "https://www.facebook.com/ismascarade"
+        "url": "https://www.facebook.com/ismascarade",
+        "username": "ismascarade"
       },
       {
         "network": "github",
-        "username": "ismaelbalaghni",
-        "url": "https://www.github.com/ismaelbalaghni"
+        "url": "https://www.github.com/ismaelbalaghni",
+        "username": "ismaelbalaghni"
       }
-    ]
+    ],
+    "summary": "Ingénieur logiciel de 23 ans. Thalésien depuis 3.5 ans, je me re-spécialise dans le développement logiciel. Passionné d'informatique et des nouvelles technologies depuis mon plus jeune âge, fan de football américain, de musique et de cinéma.",
+    "url": "https://www.balaghni.dev"
   },
-  "work": [
-    {
-      "name": "Thales",
-      "position": "Software Engineer",
-      "startDate": "2022-09-30",
-      "highlights": [
-        "Résolution de faits techniques et d'améliorations sur un banc de test d'équipements aéronautiques",
-        "Portage d'une application de maintenance d'équipements aéronautiques vers une version plus récente de Python",
-        "Rédaction d'exigences logicielles dans un nouveau projet via Polarion"
-      ],
-      "url": "https://www.thalesgroup.com",
-      "location": "Élancourt, Île-de-France, France"
-    },
-    {
-      "name": "Thales",
-      "position": "Engineer Apprentice",
-      "startDate": "2019-09-30",
-      "endDate": "2022-08-31",
-      "highlights": [
-        "Soutien auprès d'une équipe d'ingénieurs système/IVQ",
-        "Réalisation d'IHM de contrôle de radios logicielles et de simulateurs système en Python",
-        "Rédaction de documents logiciels comme documents de tests, production logicielle ou livraison logicielle"
-      ],
-      "url": "https://www.thalesgroup.com",
-      "location": "Gennevilliers, Île-de-France, France"
-    },
-    {
-      "name": "Thales",
-      "position": "Intern",
-      "startDate": "2019-04-30",
-      "endDate": "2019-07-31",
-      "highlights": [
-        "Conception d'un outil de description des interfaces logicielles d'un produit embarqué de transmission de données"
-      ],
-      "url": "https://www.thalesgroup.com",
-      "location": "Gennevilliers, Île-de-France, France"
-    }
-  ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "ESIEA",
       "area": "Software Engineer",
-      "studyType": "Engineering Degree",
-      "startDate": "2019-09-30",
-      "endDate": "2022-09-30",
-      "score": "93/100",
       "courses": [
         "Mobile-oriented Software Development",
         "Web-oriented Development",
@@ -91,173 +48,68 @@
         "System Administration Introduction",
         "Introduction to AR/VR"
       ],
+      "endDate": "2022-09-30",
+      "institution": "ESIEA",
+      "score": "93/100",
+      "startDate": "2019-09-30",
+      "studyType": "Engineering Degree",
       "url": "https://www.esiea.fr/formations/diplome-dingenieur/majeures-mineures/software-engineering/"
     },
     {
-      "institution": "Université Paris Nanterre",
       "area": "Electrical Engineering and Industrial Computing",
-      "studyType": "Diplôme universitaire de technologie (DUT)",
-      "startDate": "2017-09-30",
-      "endDate": "2019-07-31",
-      "score": "14.717",
       "courses": [
         "Automatique",
         "Object-Oriented Programming"
       ],
+      "endDate": "2019-07-31",
+      "institution": "Université Paris Nanterre",
+      "score": "14.717",
+      "startDate": "2017-09-30",
+      "studyType": "Diplôme universitaire de technologie (DUT)",
       "url": "https://cva-geii.parisnanterre.fr/formations/b-u-t-geii"
     },
     {
-      "institution": "Lycée Emilie de Breteuil",
       "area": "Sciences de l'ingénieur",
-      "studyType": "Baccalauréat scientifique",
-      "startDate": "2015-12-31",
-      "endDate": "2017-12-31",
-      "score": "13.05",
       "courses": [
         "Mécanique",
         "Électronique",
         "Informatique et Sciences du Numérique"
-      ]
+      ],
+      "endDate": "2017-12-31",
+      "institution": "Lycée Emilie de Breteuil",
+      "score": "13.05",
+      "startDate": "2015-12-31",
+      "studyType": "Baccalauréat scientifique"
     }
   ],
-  "awards": [],
-  "publications": [],
-  "skills": [
+  "interests": [
     {
-      "name": "Web Development",
-      "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
-        "PHP",
-        "LAMP",
-        "MAMP",
-        "XAMPP"
-      ]
+        "Habs",
+        "Patriots",
+        "NHL",
+        "NFL"
+      ],
+      "name": "Sports"
     },
     {
-      "name": "Databases",
-      "level": "Intermediate",
       "keywords": [
-        "MySQL",
-        "PostgreSQL",
-        "Oracle Databases",
-        "SQL"
-      ]
+        "Star Wars",
+        "Lord of the Rings",
+        "Bruce Lee",
+        "The Hobbit",
+        "Disney",
+        "Pixar"
+      ],
+      "name": "Movies"
     },
     {
-      "name": "User Experience (UX)",
-      "level": "Beginner",
       "keywords": [
-        "Figma",
-        "Sketch",
-        "Whimsical"
-      ]
-    },
-    {
-      "name": "Leadership",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Android Development",
-      "level": "Beginner",
-      "keywords": [
-        "Java",
-        "Android Studio",
-        "Caching",
-        "JSON"
-      ]
-    },
-    {
-      "name": "Operating Systems",
-      "level": "Intermediate",
-      "keywords": [
-        "System administration",
-        "Windows Server",
-        "Windows",
-        "Linux",
-        "Kerberos"
-      ]
-    },
-    {
-      "name": "User Experience Design (UED)",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Gestion de projet",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Programmation",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Documentation",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Test Driven Development",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "Beginner",
-      "keywords": [
-        "OOP",
-        "PyQt",
-        "HMI"
-      ]
-    },
-    {
-      "name": "MATLAB",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft PowerPoint",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Automatisation des tests",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Unity Pro",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "C",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "Méthodes agiles",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "C++",
-      "level": "Beginner",
-      "keywords": []
+        "The Big Bang Theory",
+        "Baron Noir",
+        "That 70s Show"
+      ],
+      "name": "TV Shows"
     }
   ],
   "languages": [
@@ -278,61 +130,34 @@
       "language": "Portuguese"
     }
   ],
-  "interests": [
-    {
-      "name": "Sports",
-      "keywords": [
-        "Habs",
-        "Patriots",
-        "NHL",
-        "NFL"
-      ]
-    },
-    {
-      "name": "Movies",
-      "keywords": [
-        "Star Wars",
-        "Lord of the Rings",
-        "Bruce Lee",
-        "The Hobbit",
-        "Disney",
-        "Pixar"
-      ]
-    },
-    {
-      "name": "TV Shows",
-      "keywords": [
-        "The Big Bang Theory",
-        "Baron Noir",
-        "That 70s Show"
-      ]
-    }
-  ],
-  "references": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "relaxed",
+    "version": "v1.0.0"
+  },
   "projects": [
     {
-      "name": "Minesweeper",
-      "startDate": "2018-12-31",
+      "description": "A small app made with C++ and SFML to apply our recently-learned skills.",
       "keywords": [
         "Video game",
         "C++",
         "SFML"
       ],
-      "type": "application",
+      "name": "Minesweeper",
       "roles": [
         "Developer"
       ],
-      "description": "A small app made with C++ and SFML to apply our recently-learned skills.",
+      "startDate": "2018-12-31",
+      "type": "application",
       "url": "https://github.com/ismaelbalaghni/graphical-minesweeper"
     },
     {
-      "name": "Citymapper remodel",
-      "startDate": "2021-10-31",
+      "description": "We had to remodel the Citymapper application using basic UX principles learned in class.",
       "endDate": "2022-01-31",
       "highlights": [
         "Using moder applications such as Figma, Sketch, and Whimsical"
       ],
-      "description": "We had to remodel the Citymapper application using basic UX principles learned in class.",
       "keywords": [
         "Figma",
         "Sketch",
@@ -340,52 +165,224 @@
         "Whimsical",
         "UX/UI"
       ],
+      "name": "Citymapper remodel",
       "roles": [
         "Designer"
       ],
+      "startDate": "2021-10-31",
       "type": "Mockup"
     },
     {
+      "endDate": "2020-12-31",
       "name": "Projet de programmation web orienté mobile",
       "startDate": "2020-10-31",
-      "summary": "Créer un site web basé sur Spring et Java afin de créer un site de sondage. Chaque utilisateur peut venir s’inscrire, créer un sondage avec une proposition de date et de lieu de rendez-vous.",
-      "endDate": "2020-12-31"
+      "summary": "Créer un site web basé sur Spring et Java afin de créer un site de sondage. Chaque utilisateur peut venir s’inscrire, créer un sondage avec une proposition de date et de lieu de rendez-vous."
     },
     {
+      "endDate": "2020-12-31",
       "name": "Projet de réalité augmentée",
       "startDate": "2020-11-30",
-      "summary": "Création d'un petit jeu en réalité augmentée avec Unity. Pilotage d'un avion présent sur un plan avec des joysticks.",
-      "endDate": "2020-12-31"
+      "summary": "Création d'un petit jeu en réalité augmentée avec Unity. Pilotage d'un avion présent sur un plan avec des joysticks."
     },
     {
+      "endDate": "2020-06-30",
       "name": "Projet de programmation mobile",
       "startDate": "2020-03-31",
-      "summary": "Application Android permettant d’afficher les valeurs cotées en bourse. Elle donne aussi le cours de chaque valeur. \nL’utilisateur peut ensuite avoir un détail sur chaque valeur comme une entreprise par exemple. Il peut voir sa date de création, son cours, son logo et une brève description.",
-      "endDate": "2020-06-30"
+      "summary": "Application Android permettant d’afficher les valeurs cotées en bourse. Elle donne aussi le cours de chaque valeur. \nL’utilisateur peut ensuite avoir un détail sur chaque valeur comme une entreprise par exemple. Il peut voir sa date de création, son cours, son logo et une brève description."
     },
     {
+      "endDate": "2019-04-30",
       "name": "Projet BB-8",
       "startDate": "2018-09-30",
-      "summary": "Réalisation d'une réplique du robot BB-8 de Star Wars en groupe. Utilisation d'une carte Arduino et de servomoteurs pour réaliser le projet. \nCréation, routage et soudure de cartes électroniques. ",
-      "endDate": "2019-04-30"
+      "summary": "Réalisation d'une réplique du robot BB-8 de Star Wars en groupe. Utilisation d'une carte Arduino et de servomoteurs pour réaliser le projet. \nCréation, routage et soudure de cartes électroniques. "
     },
     {
+      "endDate": "2018-01-31",
       "name": "Projet télémètre",
       "startDate": "2017-12-31",
-      "summary": "Réalisation d'un télémètre composé d'un capteur à ultrasons, d'un FPGA Xilinx, d'un haut-parleur et d'un afficheur 7 segments.\nRéalisé en binôme.\nUtilisation du langage VHDL pour implémenter les différentes fonctionnalités.",
-      "endDate": "2018-01-31"
+      "summary": "Réalisation d'un télémètre composé d'un capteur à ultrasons, d'un FPGA Xilinx, d'un haut-parleur et d'un afficheur 7 segments.\nRéalisé en binôme.\nUtilisation du langage VHDL pour implémenter les différentes fonctionnalités."
     },
     {
+      "endDate": "2018-01-31",
       "name": "Thermomètre bluetooth",
       "startDate": "2017-12-31",
-      "summary": "- Réalisation en binôme d'un thermomètre se basant sur une thermistance. \n- Traitement de la valeur et conversion en une température exploitable à l'aide de comparateurs logiques.\n- Transmission de la température relevée à travers une carte Arduino et un module Bluetooth pour une lecture sur téléphone.",
-      "endDate": "2018-01-31"
+      "summary": "- Réalisation en binôme d'un thermomètre se basant sur une thermistance. \n- Traitement de la valeur et conversion en une température exploitable à l'aide de comparateurs logiques.\n- Transmission de la température relevée à travers une carte Arduino et un module Bluetooth pour une lecture sur téléphone."
     }
   ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00",
-    "theme": "relaxed"
-  }
+  "publications": [],
+  "references": [],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "LAMP",
+        "MAMP",
+        "XAMPP"
+      ],
+      "level": "Intermediate",
+      "name": "Web Development"
+    },
+    {
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "Oracle Databases",
+        "SQL"
+      ],
+      "level": "Intermediate",
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Figma",
+        "Sketch",
+        "Whimsical"
+      ],
+      "level": "Beginner",
+      "name": "User Experience (UX)"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Android Studio",
+        "Caching",
+        "JSON"
+      ],
+      "level": "Beginner",
+      "name": "Android Development"
+    },
+    {
+      "keywords": [
+        "System administration",
+        "Windows Server",
+        "Windows",
+        "Linux",
+        "Kerberos"
+      ],
+      "level": "Intermediate",
+      "name": "Operating Systems"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "User Experience Design (UED)"
+    },
+    {
+      "keywords": [
+        "Documentation",
+        "Leadership",
+        "Agile",
+        "Daily meetings"
+      ],
+      "level": "Beginner",
+      "name": "Gestion de projet"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "Programmation"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "Documentation"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "Test Driven Development"
+    },
+    {
+      "keywords": [
+        "OOP",
+        "PyQt",
+        "HMI"
+      ],
+      "level": "Advanced",
+      "name": "Python"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "MATLAB"
+    },
+    {
+      "keywords": [
+        "Microsoft Office",
+        "Linux",
+        "Windows"
+      ],
+      "level": "Beginner",
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "Spring",
+        "OOP"
+      ],
+      "level": "Beginner",
+      "name": "Java"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "Automatisation des tests"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "Unity Pro"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "C"
+    },
+    {
+      "keywords": [],
+      "level": "Beginner",
+      "name": "C++"
+    }
+  ],
+  "volunteer": [],
+  "work": [
+    {
+      "highlights": [
+        "Résolution de faits techniques et d'améliorations sur un banc de test d'équipements aéronautiques",
+        "Portage d'une application de maintenance d'équipements aéronautiques vers une version plus récente de Python",
+        "Rédaction d'exigences logicielles dans un nouveau projet via Polarion"
+      ],
+      "location": "Élancourt, Île-de-France, France",
+      "name": "Thales",
+      "position": "Software Engineer",
+      "startDate": "2022-09-30",
+      "url": "https://www.thalesgroup.com"
+    },
+    {
+      "endDate": "2022-08-31",
+      "highlights": [
+        "Soutien auprès d'une équipe d'ingénieurs système/IVQ",
+        "Réalisation d'IHM de contrôle de radios logicielles et de simulateurs système en Python",
+        "Rédaction de documents logiciels comme documents de tests, production logicielle ou livraison logicielle"
+      ],
+      "location": "Gennevilliers, Île-de-France, France",
+      "name": "Thales",
+      "position": "Engineer Apprentice",
+      "startDate": "2019-09-30",
+      "url": "https://www.thalesgroup.com"
+    },
+    {
+      "endDate": "2019-07-31",
+      "highlights": [
+        "Conception d'un outil de description des interfaces logicielles d'un produit embarqué de transmission de données"
+      ],
+      "location": "Gennevilliers, Île-de-France, France",
+      "name": "Thales",
+      "position": "Intern",
+      "startDate": "2019-04-30",
+      "url": "https://www.thalesgroup.com"
+    }
+  ]
 }
