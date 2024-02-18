@@ -41,12 +41,14 @@ jobs:
     - name: Setup Pages
       uses: actions/configure-pages@v4.0.0
     - name: Setup Node.js environment
-      uses: actions/setup-node@v4.0.1
+      uses: actions/setup-node@v4.0.
+    - name: Install required packages
+      run: npm i -g resume-cli1
     - name: Generate resume
       run: |
-        npm install resume-cli jsonresume-theme-relaxed
+        npm install jsonresume-theme-stackoverflow
         mkdir _site
-        resume export --theme jsonresume-theme-relaxed _site/index.html
+        resume export --theme jsonresume-theme-stackoverflow _site/index.html
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3.0.0
     - name: Deploy to GitHub Pages
