@@ -3,7 +3,7 @@
   "awards": [],
   "basics": {
     "email": "ismael@balaghni.dev",
-    "image": "",
+    "image": "https://avatars.githubusercontent.com/u/20757786?s=400&u=11d6debc85dc8c98b3b08b6aa1bbdffb914cab76&v=4",
     "label": "Ingénieur développement logiciel • 23 ans • passionné d'informatique",
     "location": {
       "city": "Trappes",
@@ -133,7 +133,7 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "lastModified": "2017-12-24T15:53:00",
-    "theme": "relaxed",
+    "theme": "stackoverflow",
     "version": "v1.0.0"
   },
   "projects": [
@@ -265,34 +265,14 @@
       "name": "Operating Systems"
     },
     {
-      "keywords": [],
-      "level": "Beginner",
-      "name": "User Experience Design (UED)"
-    },
-    {
       "keywords": [
         "Documentation",
         "Leadership",
         "Agile",
         "Daily meetings"
       ],
-      "level": "Beginner",
+      "level": "Intermediate",
       "name": "Gestion de projet"
-    },
-    {
-      "keywords": [],
-      "level": "Beginner",
-      "name": "Programmation"
-    },
-    {
-      "keywords": [],
-      "level": "Beginner",
-      "name": "Documentation"
-    },
-    {
-      "keywords": [],
-      "level": "Beginner",
-      "name": "Test Driven Development"
     },
     {
       "keywords": [
@@ -314,7 +294,7 @@
         "Linux",
         "Windows"
       ],
-      "level": "Beginner",
+      "level": "Advanced",
       "name": "Tools"
     },
     {
@@ -324,11 +304,6 @@
       ],
       "level": "Beginner",
       "name": "Java"
-    },
-    {
-      "keywords": [],
-      "level": "Beginner",
-      "name": "Automatisation des tests"
     },
     {
       "keywords": [],
