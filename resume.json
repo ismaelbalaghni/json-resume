@@ -85,8 +85,8 @@
   "interests": [
     {
       "keywords": [
-        "Habs",
-        "Patriots",
+        "Habs/Canadiens",
+        "New England Patriots",
         "NHL",
         "NFL"
       ],
@@ -133,7 +133,7 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "lastModified": "2017-12-24T15:53:00",
-    "theme": "stackoverflow",
+    "theme": "engineering",
     "version": "v1.0.0"
   },
   "projects": [
