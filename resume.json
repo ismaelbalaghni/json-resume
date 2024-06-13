@@ -35,7 +35,7 @@
       }
     ],
     "summary": "Ingénieur logiciel de 23 ans. Thalésien depuis 3.5 ans, je me re-spécialise dans le développement logiciel. Passionné d'informatique et des nouvelles technologies depuis mon plus jeune âge, fan de football américain, de musique et de cinéma.",
-    "url": "https://www.balaghni.dev"
+    "url": "https://www.ismael.sh"
   },
   "education": [
     {
@@ -332,7 +332,7 @@
       "location": "Élancourt, Île-de-France, France",
       "name": "Thales",
       "position": "Software Engineer",
-      "startDate": "2022-09-30",
+      "startDate": "2022-09-05",
       "url": "https://www.thalesgroup.com"
     },
     {
@@ -345,11 +345,11 @@
       "location": "Gennevilliers, Île-de-France, France",
       "name": "Thales",
       "position": "Engineer Apprentice",
-      "startDate": "2019-09-30",
+      "startDate": "2019-08-26",
       "url": "https://www.thalesgroup.com"
     },
     {
-      "endDate": "2019-07-31",
+      "endDate": "2019-07-26",
       "highlights": [
         "Conception d'un outil de description des interfaces logicielles d'un produit embarqué de transmission de données"
       ],
