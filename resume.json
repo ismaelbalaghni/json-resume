@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "awards": [],
   "basics": {
-    "email": "ismael@balaghni.dev",
+    "email": "contact@ismael.sh",
     "image": "https://avatars.githubusercontent.com/u/20757786?s=400&u=11d6debc85dc8c98b3b08b6aa1bbdffb914cab76&v=4",
-    "label": "Ingénieur développement logiciel • 23 ans • passionné d'informatique",
+    "label": "Ingénieur développement logiciel • 24 ans • passionné d'informatique",
     "location": {
       "city": "Trappes",
       "countryCode": "FR",
@@ -48,10 +48,10 @@
         "System Administration Introduction",
         "Introduction to AR/VR"
       ],
-      "endDate": "2022-09-30",
+      "endDate": "2022-08-31",
       "institution": "ESIEA",
       "score": "93/100",
-      "startDate": "2019-09-30",
+      "startDate": "2019-08-26",
       "studyType": "Engineering Degree",
       "url": "https://www.esiea.fr/formations/diplome-dingenieur/majeures-mineures/software-engineering/"
     },
@@ -61,10 +61,10 @@
         "Automatique",
         "Object-Oriented Programming"
       ],
-      "endDate": "2019-07-31",
+      "endDate": "2019-07-26",
       "institution": "Université Paris Nanterre",
       "score": "14.717",
-      "startDate": "2017-09-30",
+      "startDate": "2017-09-01",
       "studyType": "Diplôme universitaire de technologie (DUT)",
       "url": "https://cva-geii.parisnanterre.fr/formations/b-u-t-geii"
     },
@@ -75,10 +75,10 @@
         "Électronique",
         "Informatique et Sciences du Numérique"
       ],
-      "endDate": "2017-12-31",
+      "endDate": "2017-06-30",
       "institution": "Lycée Emilie de Breteuil",
       "score": "13.05",
-      "startDate": "2015-12-31",
+      "startDate": "2015-09-01",
       "studyType": "Baccalauréat scientifique"
     }
   ],
@@ -356,7 +356,7 @@
       "location": "Gennevilliers, Île-de-France, France",
       "name": "Thales",
       "position": "Intern",
-      "startDate": "2019-04-30",
+      "startDate": "2019-04-08",
       "url": "https://www.thalesgroup.com"
     }
   ]
